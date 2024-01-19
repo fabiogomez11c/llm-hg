@@ -10,6 +10,9 @@ datasets = "*"
 accelerate = "*"
 jupyter = "*"
 ipywidgets = "*"
+bitsandbytes = "*"
+sentencepiece = "*"
+protobuf = "*"
 
 [dev-packages]
 
